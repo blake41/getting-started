@@ -4,10 +4,31 @@ Why Bitcoin?
 * http://nautil.us/issue/55/trust/the-bitcoin-paradox
 * https://blog.bitmex.com/value_proposition/
 
-
 Trust/Trustless
 
 * https://hackernoon.com/bitcoin-is-not-trustless-350ba0060fc9
+
+How does Bitcoin Work?
+
+* http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+* https://medium.com/@micheledaliessi/how-does-the-blockchain-work-98c8cd01d2ae
+* https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it
+
+What's a Blockchain?
+
+* https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+Blockchain Governance
+
+* https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74
+
+Forking
+
+* https://medium.com/@FEhrsam/accelerating-evolution-through-forking-6b0bba85a2ba
+
+Other CryptoAssets
+
+* https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887
 
 Books
 
